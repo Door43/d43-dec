@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dec:home|Door43 (dec)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dec|d43-dec repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dec/archive/master.zip|d43-dec.zip]]
+
+**Recent Changes**
+{{changes>ns = dec}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dec|Ethnologue data]]
+
